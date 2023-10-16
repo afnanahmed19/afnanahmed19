@@ -6,15 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 
 
-- 
+
+
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/afnan-ahmed-508334247/]
 
 
-
-
-- 📫 How to reach me **ahmedafnan130@gmail.com**
-
-<a href="https://www.linkedin.com/in/afnan-ahmed-508334247/" target="blank"><img align="center" 
