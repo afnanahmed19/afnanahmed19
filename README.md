@@ -17,8 +17,4 @@
 
 - 📫 How to reach me **ahmedafnan130@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
 <a href="https://www.linkedin.com/in/afnan-ahmed-508334247/" target="blank"><img align="center" 
