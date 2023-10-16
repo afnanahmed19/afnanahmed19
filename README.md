@@ -10,6 +10,6 @@
 
 
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/afnan-ahmed-508334247/]
+- 📝 I regularly write articles on https://www.linkedin.com/in/afnan-ahmed-508334247/
 
 
